@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+
+header {
+  background-color: white;
+  color: #28a745;
+}
+
+footer {
+  background-color: white;
+  color: #28a745;
+}
+
+h1{
+  color: #28a745;
+}
+h2 {
+  color: #28a745;
+}
+
+table {
+  border: 1px solid #28a745;
+}
+
+.header-img {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Óriáspanda",
+        "habitat": "Kína",
+        "conservation_status": "Veszélyeztetett"
+    },
+    {
+        "id": 2,
+        "name": "Tigris",
+        "habitat": "Ázsia",
+        "conservation_status": "Kritikusan veszélyeztetett"
+    },
+    {
+        "id": 3,
+        "name": "Jegesmedve",
+        "habitat": "Sarkvidék",
+        "conservation_status": "Veszélyeztetett"
+    },
+    {
+        "id": 4,
+        "name": "Gorilla",
+        "habitat": "Közép-Afrika",
+        "conservation_status": "Kritikusan veszélyeztetett"
+    },
+    {
+        "id": 5,
+        "name": "Kék bálna",
+        "habitat": "Óceánok",
+        "conservation_status": "Veszélyeztetett"
+    }
+]

@@ -1,0 +1,1 @@
+export type Root3 = string[]
